@@ -1,0 +1,11 @@
+var x = 5;
+var y = 10 + x;
+x = y = 10;
+x = -y%10;
+x = 8;
+while (x<y)
+  x=x+1;
+if ((x = x + 1) > y || false)
+  return x;
+else
+return y;
