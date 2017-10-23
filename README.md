@@ -1,5 +1,7 @@
 # Simple-Interpreter-CWRU-EECS345
 
+This is a group project. The following improved parts are in Yue's repository (https://github.com/tripack45/EECS345-CASE-Javish)  
+
 Written in functional programming language scheme.  
 
 This project is to create an interpreter for a very simple Java/C-ish language. The language has variables, assignment statements, mathematical expressions, comparison operators, boolean operators, if statements, while statements, and return statements.   
